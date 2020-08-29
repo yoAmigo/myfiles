@@ -1,0 +1,9 @@
+{
+    "this": "is out of sourcetree",
+    "files": [
+        {
+            "path": "outerSrc/README.pdf",
+            "name": "readme"
+        }
+    ]
+}
